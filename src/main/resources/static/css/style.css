@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("../img/background.jpeg");
+  font-family: 'Slabo 27px', serif;
+}
+
+ h2, h3, h4, h5, h6{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+nav{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.form{
+    padding: 20px;
+    margin: 20px;
+}

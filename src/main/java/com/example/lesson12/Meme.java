@@ -17,6 +17,8 @@ public class Actor {
 
     private String headshot;
 
+    private String description;
+
     public long getId() {
         return id;
     }
@@ -47,5 +49,13 @@ public class Actor {
 
     public void setHeadshot(String headshot) {
         this.headshot = headshot;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
     }
 }
